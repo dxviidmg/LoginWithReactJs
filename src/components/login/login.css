@@ -1,0 +1,13 @@
+.formulario {
+	width: 600px;
+	margin: 0 auto;
+	margin-top: 50px;	
+	background-color: gray;
+	padding: 20px;
+	display: flex;
+	flex-direction: column;
+}
+
+.formulario input {
+	background-color: grey;
+}
